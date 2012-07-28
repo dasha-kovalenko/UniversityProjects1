@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views.ContentOutline",1266935926913
+activated,view,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.VariableView",1266935927907
+started,bundle,org.eclipse.mylyn.ide.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.ide.ui",1266935928795
+activated,view,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.BreakpointView",1266935928831
+activated,perspective,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.JavaPerspective",1266935935350
+activated,view,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views.ContentOutline",1266935935360
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1266935942597
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.debug.CompilationUnitEditor.BreakpointRulerActions/org.eclipse.jdt.debug.ui.actions.ManageBreakpointRulerAction",1266935942920
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1266935946533
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266935948049
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.debug",1266935950919
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266935953148
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266935953524
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266935953608
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266935953623
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1266935959595
+closed,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266935959595
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266935960641
+error,log,,,"Launch configuration WSDL2Java references non-existing project ChatWebClient.",1266935963824
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266935963893
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266935965561
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.debug",1266935968093
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266935968160
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266935968246
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266935970355

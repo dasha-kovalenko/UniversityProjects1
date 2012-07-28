@@ -1,0 +1,5 @@
+INDEX VERSION 1.121+D:\Projects\Java\SimpleChatAndFileSharing\.metadata\.plugins\org.eclipse.wst.jsdt.core
+2974934989.index
+4111204864.index
+1955112332.index
+2818532238.index

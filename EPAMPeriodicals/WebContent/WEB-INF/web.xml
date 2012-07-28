@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	id="WebApp_ID" version="2.5">
+	<display-name>Periodicals Project</display-name>
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+	<servlet>
+		<description></description>
+		<display-name>PeriodicalsController</display-name>
+		<servlet-name>PeriodicalsController</servlet-name>
+		<servlet-class>by.kovalenko.periodicals.controller.PeriodicalsController</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>PeriodicalsController</servlet-name>
+		<url-pattern>/periodicals</url-pattern>
+	</servlet-mapping>
+	<filter>
+		<display-name>AuthenticationFilter</display-name>
+		<filter-name>AuthenticationFilter</filter-name>
+		<filter-class>by.kovalenko.periodicals.filter.AuthenticationFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>AuthenticationFilter</filter-name>
+		<servlet-name>PeriodicalsController</servlet-name>
+	</filter-mapping>
+	<filter>
+		<display-name>LocaleFilter</display-name>
+		<filter-name>LocaleFilter</filter-name>
+		<filter-class>by.kovalenko.periodicals.filter.LocaleFilter</filter-class>
+		<init-param>
+			<param-name>defaultLocale</param-name>
+			<param-value>ru</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>LocaleFilter</filter-name>
+		<servlet-name>PeriodicalsController</servlet-name>
+	</filter-mapping>
+	<filter>
+	<display-name>MessageFilter</display-name>
+		<filter-name>MessageFilter</filter-name>
+		<filter-class>by.kovalenko.periodicals.filter.MessageFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>MessageFilter</filter-name>
+		<servlet-name>PeriodicalsController</servlet-name>
+	</filter-mapping>
+</web-app>

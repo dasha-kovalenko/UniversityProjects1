@@ -1,0 +1,4 @@
+AAA! 
+QQQQ "fff"?
+An Object becomes eligible for Garbage collection; or GC if its not reachable from any live threads or any static refrences in other words you can say that an object "becomes" eligible for garbage collection if its all references are null. 
+Cyclic: dependencies are not, counted as reference so if Object A has reference of object B and object B has reference of Object A and they don't have any other live reference then both Objects A and B will be eligible for Garbage collection. 

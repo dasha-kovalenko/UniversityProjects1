@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.info,sysinfo,,,"mixed mode",1266919650885
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1266919650885
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1266919650885
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266919650885
+java.vm.specification.version,sysinfo,,,"1.0",1266919650885
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266919650885
+java.vm.version,sysinfo,,,"16.0-b13",1266919650885
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1266919651285
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266919910880
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266919927526
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266919927603
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266919928945
+error,log,,,"File not found: '/ChatAndFileSharing/src/__2F_ChatAndFileSharing_2F_WebContent_2F_Login_2E_jsp.java'",1266919929335
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1266919933824
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1266919943593
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266919944730
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266920005508
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1266920008451
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1266920008581
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1266920008705
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1266920009065
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1266920009120
+started,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1266920009257
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266920018865
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266920046979

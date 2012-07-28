@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1273660749903
+java.specification.version,sysinfo,,,"1.6",1273660749903
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1273660749903
+java.version,sysinfo,,,"1.6.0_18",1273660749903
+java.vm.info,sysinfo,,,"mixed mode",1273660749903
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1273660749903
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1273660749903
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1273660749903
+java.vm.specification.version,sysinfo,,,"1.0",1273660749903
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1273660749903
+java.vm.version,sysinfo,,,"16.0-b13",1273660749903
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1273660751240
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273660752489
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273661885865
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1273661889107
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1273661891451
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1273661896239
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273661900535
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273661905566
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273661906503
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273662183977
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273662208896
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273663483071
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273663484212
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273663729062

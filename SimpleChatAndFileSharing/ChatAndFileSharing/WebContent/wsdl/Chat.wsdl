@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://core.chatfilews.levkat" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://core.chatfilews.levkat" xmlns:intf="http://core.chatfilews.levkat" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://core.chatfilews.levkat" xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="getAllMessages">
+    <complexType/>
+   </element>
+   <element name="getAllMessagesResponse">
+    <complexType>
+     <sequence>
+      <element maxOccurs="unbounded" name="getAllMessagesReturn" type="impl:ChatMessage"/>
+     </sequence>
+    </complexType>
+   </element>
+   <complexType name="ChatPerson">
+    <sequence>
+     <element name="nickname" nillable="true" type="xsd:string"/>
+     <element name="id" type="xsd:long"/>
+     <element name="password" nillable="true" type="xsd:string"/>
+     <element name="state" nillable="true" type="xsd:boolean"/>
+    </sequence>
+   </complexType>
+   <complexType name="ChatMessage">
+    <sequence>
+     <element name="timestamp" nillable="true" type="xsd:dateTime"/>
+     <element name="id" type="xsd:long"/>
+     <element name="author" nillable="true" type="impl:ChatPerson"/>
+     <element name="text" nillable="true" type="xsd:string"/>
+    </sequence>
+   </complexType>
+   <element name="logout">
+    <complexType>
+     <sequence>
+      <element name="nickname" type="xsd:string"/>
+      <element name="password" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="logoutResponse">
+    <complexType>
+     <sequence>
+      <element name="logoutReturn" type="xsd:int"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="login">
+    <complexType>
+     <sequence>
+      <element name="nickname" type="xsd:string"/>
+      <element name="password" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="loginResponse">
+    <complexType>
+     <sequence>
+      <element name="loginReturn" type="xsd:int"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="getAllUsers">
+    <complexType/>
+   </element>
+   <element name="getAllUsersResponse">
+    <complexType>
+     <sequence>
+      <element maxOccurs="unbounded" name="getAllUsersReturn" type="impl:ChatPerson"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="postMessage">
+    <complexType>
+     <sequence>
+      <element name="message" type="xsd:string"/>
+      <element name="nickname" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="postMessageResponse">
+    <complexType/>
+   </element>
+   <element name="getOnlineUsers">
+    <complexType/>
+   </element>
+   <element name="getOnlineUsersResponse">
+    <complexType>
+     <sequence>
+      <element maxOccurs="unbounded" name="getOnlineUsersReturn" type="impl:ChatPerson"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="registerNewUser">
+    <complexType>
+     <sequence>
+      <element name="nickname" type="xsd:string"/>
+      <element name="password" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="registerNewUserResponse">
+    <complexType>
+     <sequence>
+      <element name="registerNewUserReturn" type="xsd:int"/>
+     </sequence>
+    </complexType>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="registerNewUserResponse">
+
+      <wsdl:part element="impl:registerNewUserResponse" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllUsersRequest">
+
+      <wsdl:part element="impl:getAllUsers" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="logoutRequest">
+
+      <wsdl:part element="impl:logout" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getOnlineUsersResponse">
+
+      <wsdl:part element="impl:getOnlineUsersResponse" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="registerNewUserRequest">
+
+      <wsdl:part element="impl:registerNewUser" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="loginResponse">
+
+      <wsdl:part element="impl:loginResponse" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllMessagesRequest">
+
+      <wsdl:part element="impl:getAllMessages" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getOnlineUsersRequest">
+
+      <wsdl:part element="impl:getOnlineUsers" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="logoutResponse">
+
+      <wsdl:part element="impl:logoutResponse" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="postMessageResponse">
+
+      <wsdl:part element="impl:postMessageResponse" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="postMessageRequest">
+
+      <wsdl:part element="impl:postMessage" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllMessagesResponse">
+
+      <wsdl:part element="impl:getAllMessagesResponse" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="loginRequest">
+
+      <wsdl:part element="impl:login" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:message name="getAllUsersResponse">
+
+      <wsdl:part element="impl:getAllUsersResponse" name="parameters"/>
+
+   </wsdl:message>
+
+   <wsdl:portType name="Chat">
+
+      <wsdl:operation name="getAllMessages">
+
+         <wsdl:input message="impl:getAllMessagesRequest" name="getAllMessagesRequest"/>
+
+         <wsdl:output message="impl:getAllMessagesResponse" name="getAllMessagesResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="logout">
+
+         <wsdl:input message="impl:logoutRequest" name="logoutRequest"/>
+
+         <wsdl:output message="impl:logoutResponse" name="logoutResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="login">
+
+         <wsdl:input message="impl:loginRequest" name="loginRequest"/>
+
+         <wsdl:output message="impl:loginResponse" name="loginResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getAllUsers">
+
+         <wsdl:input message="impl:getAllUsersRequest" name="getAllUsersRequest"/>
+
+         <wsdl:output message="impl:getAllUsersResponse" name="getAllUsersResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="postMessage">
+
+         <wsdl:input message="impl:postMessageRequest" name="postMessageRequest"/>
+
+         <wsdl:output message="impl:postMessageResponse" name="postMessageResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getOnlineUsers">
+
+         <wsdl:input message="impl:getOnlineUsersRequest" name="getOnlineUsersRequest"/>
+
+         <wsdl:output message="impl:getOnlineUsersResponse" name="getOnlineUsersResponse"/>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="registerNewUser">
+
+         <wsdl:input message="impl:registerNewUserRequest" name="registerNewUserRequest"/>
+
+         <wsdl:output message="impl:registerNewUserResponse" name="registerNewUserResponse"/>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="ChatSoapBinding" type="impl:Chat">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="getAllMessages">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getAllMessagesRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getAllMessagesResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="logout">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="logoutRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="logoutResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="login">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="loginRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="loginResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getAllUsers">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getAllUsersRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getAllUsersResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="postMessage">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="postMessageRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="postMessageResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="getOnlineUsers">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="getOnlineUsersRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="getOnlineUsersResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="registerNewUser">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="registerNewUserRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="registerNewUserResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="ChatService">
+
+      <wsdl:port binding="impl:ChatSoapBinding" name="Chat">
+
+         <wsdlsoap:address location="http://localhost:8080/ChatAndFileSharing/services/Chat"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

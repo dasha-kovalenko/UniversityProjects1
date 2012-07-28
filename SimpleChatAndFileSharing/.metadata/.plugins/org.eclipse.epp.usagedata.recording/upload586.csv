@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"preference option missing: org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.compiler.problem.missingDeprecatedAnnotation (org.eclipse.wst.jsdt.internal.ui.preferences.ProblemSeveritiesConfigurationBlock)",1266926323089
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926336139
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1266926341192
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266926342582
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1266926346037
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1266926348217
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266926350691
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1266926351517
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1266926352194
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1266926356418
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1266926359813
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1266926360706
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926367935
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926373285
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266926373331
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.debug",1266926379098
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266926381692
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266926381753
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926386803
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926419701
+opened,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.SourceView",1266926419841
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.SourceView",1266926419859
+opened,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.ProblemView",1266926421376
+activated,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.ProblemView",1266926421406
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266926436116

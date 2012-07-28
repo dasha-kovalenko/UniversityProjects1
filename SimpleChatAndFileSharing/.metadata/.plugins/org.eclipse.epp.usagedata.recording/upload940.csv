@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Core exception while retrieving the content description",1271407982625
+error,log,,,"Core exception while retrieving the content description",1271407982628
+error,log,,,"Core exception while retrieving the content description",1271407982632
+error,log,,,"Core exception while retrieving the content description",1271407982635
+error,log,,,"Core exception while retrieving the content description",1271407982638
+error,log,,,"Core exception while retrieving the content description",1271407983735
+error,log,,,"Core exception while retrieving the content description",1271407983737
+error,log,,,"Core exception while retrieving the content description",1271407983739
+error,log,,,"Core exception while retrieving the content description",1271407983742
+error,log,,,"Core exception while retrieving the content description",1271407984086
+error,log,,,"Core exception while retrieving the content description",1271407984088
+error,log,,,"Core exception while retrieving the content description",1271407984090
+error,log,,,"Core exception while retrieving the content description",1271407984092
+started,bundle,org.eclipse.jst.jee.ui,1.0.200.v200905242144,"org.eclipse.jst.jee.ui",1271407985123
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1271407985207
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1271407985221
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1271407985457
+started,bundle,org.eclipse.wst.internet.cache,1.0.301.v200805140020,"org.eclipse.wst.internet.cache",1271407985933
+started,bundle,org.eclipse.jst.server.generic.core,1.0.505.v20090529,"org.eclipse.jst.server.generic.core",1271407986268
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1271407986271
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.run",1271407986381
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1271407989036
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271407989583
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271407989616
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1271407994558

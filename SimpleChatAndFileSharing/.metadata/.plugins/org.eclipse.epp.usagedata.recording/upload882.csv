@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.name,sysinfo,,,"Java Platform API Specification",1267893067501
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1267893067501
+java.specification.version,sysinfo,,,"1.6",1267893067501
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1267893067501
+java.version,sysinfo,,,"1.6.0_18",1267893067501
+java.vm.info,sysinfo,,,"mixed mode",1267893067501
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1267893067501
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1267893067501
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1267893067501
+java.vm.specification.version,sysinfo,,,"1.0",1267893067501
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1267893067501
+java.vm.version,sysinfo,,,"16.0-b13",1267893067501
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1267893068739
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267893069691
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267893073457
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1267893078533
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1267893083350
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1267893085332
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1267893085478
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1267893088624
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1267893089028
+started,bundle,org.eclipse.jst.jee.ui,1.0.200.v200905242144,"org.eclipse.jst.jee.ui",1267893090974
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.300.v200904230730,"org.eclipse.jst.j2ee.ejb",1267893091053
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.300.v200903120000,"org.eclipse.jst.j2ee.jca",1267893091070
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1267893091115

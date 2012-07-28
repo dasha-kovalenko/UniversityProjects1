@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><bookstore>
+	<topics nextId="14">
+		
+		
+		
+		
+		<topic topicId="3">Психоделика</topic>
+	<topic topicId="9">Художественная литература</topic><topic topicId="10">Психоанализ</topic><topic topicId="11">Фантастика</topic><topic topicId="12">Программирование</topic><topic topicId="13">Java</topic></topics>
+	<books nextId="16">
+		
+		
+	<book bookId="8"><title>Гадкие лебеди</title><authors>Стругацкий А., Стругацкий Б.</authors><relatedTopics><topicId>9</topicId></relatedTopics></book><book bookId="9"><title>Введение в психоанализ</title><authors>З. Фрейд</authors><relatedTopics><topicId>10</topicId></relatedTopics></book><book bookId="11"><title>Дэн Симмонс</title><authors>Гиперион</authors><relatedTopics><topicId>9</topicId><topicId>11</topicId></relatedTopics></book><book bookId="12"><title>Страх и ненависть в Лас-Вегасе</title><authors>Хантер Томпсон</authors><relatedTopics><topicId>3</topicId><topicId>9</topicId></relatedTopics></book><book bookId="13"><title>Преступление и наказание</title><authors>Ф. М. Достоевский</authors><relatedTopics><topicId>9</topicId></relatedTopics></book><book bookId="14"><title>Ноутон, Шилдт</title><authors>Java 2</authors><relatedTopics><topicId>12</topicId><topicId>13</topicId></relatedTopics></book><book bookId="15"><title>Thinking In Java</title><authors>Bruce Eckel</authors><relatedTopics><topicId>12</topicId><topicId>13</topicId></relatedTopics></book></books>
+</bookstore>

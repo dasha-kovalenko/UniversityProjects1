@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1266960047033
+java.version,sysinfo,,,"1.6.0_18",1266960047033
+java.vm.info,sysinfo,,,"mixed mode",1266960047033
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1266960047033
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1266960047033
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266960047033
+java.vm.specification.version,sysinfo,,,"1.0",1266960047033
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266960047033
+java.vm.version,sysinfo,,,"16.0-b13",1266960047033
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266960071618
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1266960077945
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266960086569
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1266960087686
+started,bundle,org.eclipse.jst.jee.ui,1.0.200.v200905242144,"org.eclipse.jst.jee.ui",1266960091058
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1266960091168
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1266960091183
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1266960091506
+started,bundle,org.eclipse.jst.server.generic.core,1.0.505.v20090529,"org.eclipse.jst.server.generic.core",1266960092547
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1266960092559
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1266960092779
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.debug",1266960092837
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1266960092972
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1266960093289
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1266960094397
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1266960095768

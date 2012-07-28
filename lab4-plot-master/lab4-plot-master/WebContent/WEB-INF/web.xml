@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>lab4-plot-master</display-name>
+  <welcome-file-list>
+    <welcome-file>/jsp/plot-master/step1.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description>Servlet for configuring plots</description>
+    <display-name>PlotMasterController</display-name>
+    <servlet-name>PlotMasterController</servlet-name>
+    <servlet-class>by.aig.controller.PlotMasterController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>PlotMasterController</servlet-name>
+    <url-pattern>/plot</url-pattern>
+  </servlet-mapping>
+  <filter>
+		<display-name>SetCharacterEncodingFilter</display-name>
+		<filter-name>SetCharacterEncodingFilter</filter-name>
+		<filter-class>by.aig.filter.SetCharacterEncodingFilter</filter-class>
+		<init-param>
+			<param-name>encoding</param-name>
+			<param-value>UTF-8</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>SetCharacterEncodingFilter</filter-name>
+		<servlet-name>PlotMasterController</servlet-name>
+	</filter-mapping>
+</web-app>

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1266267943446
+started,bundle,org.eclipse.wst.command.env.ui,1.1.2.v200811200248,"org.eclipse.wst.command.env.ui",1266267945911
+started,bundle,org.eclipse.wst.common.environment,1.0.202.v200807161459,"org.eclipse.wst.common.environment",1266267945948
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1266267945961
+started,bundle,org.eclipse.jst.ws.creation.ui,1.0.408.v200904211646,"org.eclipse.jst.ws.creation.ui",1266267945982
+started,bundle,org.eclipse.jst.ws.consumption.ui,1.1.104.v200904211646,"org.eclipse.jst.ws.consumption.ui",1266267946013
+started,bundle,org.eclipse.jst.ws.ui,1.0.402.v200903111822,"org.eclipse.jst.ws.ui",1266267946023
+started,bundle,org.eclipse.jst.ws.uddiregistry,1.0.400.v200901261650,"org.eclipse.jst.ws.uddiregistry",1266267946024
+started,bundle,org.eclipse.jst.ws.consumption,1.0.407.v200905191120,"org.eclipse.jst.ws.consumption",1266267946114
+started,bundle,org.eclipse.wst.ws.ui,1.1.100.v200903112221,"org.eclipse.wst.ws.ui",1266267946117
+started,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1266267946140
+started,bundle,org.eclipse.wst.ws.parser,1.0.402.v200901220107,"org.eclipse.wst.ws.parser",1266267946158
+started,bundle,org.eclipse.wst.ws.explorer,1.0.407.v200903301628,"org.eclipse.wst.ws.explorer",1266267946213
+started,bundle,org.eclipse.jst.ws,1.0.407.v200905191120,"org.eclipse.jst.ws",1266267946230
+started,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1266267946752
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266267946801
+started,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1266267949012
+started,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1266267949022
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.103.v200905151848,"org.eclipse.wst.ws.service.policy",1266267951290
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.301.v200805140415,"org.eclipse.wst.common.uriresolver",1266267954433
+started,bundle,org.eclipse.wst.internet.cache,1.0.301.v200805140020,"org.eclipse.wst.internet.cache",1266267954691
+started,bundle,org.eclipse.wst.wsi,1.0.305.v200902181431,"org.eclipse.wst.wsi",1266267954884
+error,log,,,"Error starting server Tomcat v6.0 Server at localhost",1266267974917
+error,log,,,"Several ports (8080, 8009) required by Tomcat v6.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).",1266267974919
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266267984992

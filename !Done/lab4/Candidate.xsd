@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.clientcandidate.aig.by/Candidate" xmlns:tns="http://www.clientcandidate.aig.by/Candidate" elementFormDefault="qualified">
+
+    <complexType name="Candidate">
+    	<sequence>
+    		<element name="id" type="int"></element>
+    		<element name="age" type="int"></element>
+    		<element name="name" type="string"></element>
+    		<element name="male" type="boolean"></element>
+    		<element name="country" type="string" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+    		<element name="city" type="string" maxOccurs="1"
+    			minOccurs="0">
+    		</element>
+    		<element name="phone" type="string"></element>
+    	</sequence>
+    </complexType>
+    
+
+    <complexType name="CandidateList">
+    	<sequence>
+            <element name="temp" type="string"></element>
+            <element name="candidate" type="tns:Candidate"
+    			maxOccurs="unbounded" minOccurs="0">
+    		</element>
+    	</sequence>
+    </complexType>
+    
+    <element name="CandidateList" type="tns:CandidateList"></element>
+</schema>

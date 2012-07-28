@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.0",1266840973710
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266840973710
+java.vm.version,sysinfo,,,"16.0-b13",1266840973710
+started,bundle,org.eclipse.wst.wsi.ui,1.0.500.v200901141851,"org.eclipse.wst.wsi.ui",1266840973773
+started,bundle,org.eclipse.jdt.apt.core,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.core",1266840976148
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.200.v20090526-2130,"org.eclipse.jdt.apt.pluggable.core",1266840976221
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1266840976570
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1266840976619
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266840988915
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266841202099
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266841217021
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266841227346
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266841234306
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266841966556
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266841995958
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266842121401
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266842123694
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266842132694
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266842137854
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1266842139699
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266842141016
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266842162086
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1266842162934
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1266842173660
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1266842174559

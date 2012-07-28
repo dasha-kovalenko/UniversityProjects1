@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<planes
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:ns1='null'
+    xsi:noNamespaceSchemaLocation='planes.xsd'>
+      <passenger>
+          <name>TY</name>
+          <capacity>230</capacity>
+          <speed>1400</speed>
+          <tonnage>1600</tonnage>
+          <distance>3400</distance>
+          <price>700</price>
+      </passenger>
+      <military>
+          <name>Boeing</name>
+          <capacity>230</capacity>
+          <speed>1400</speed>
+          <tonnage>1600</tonnage>
+          <distance>3400</distance>
+          <calibreWeight>340</calibreWeight>
+      </military>  
+      <freight>
+          <name>Yak</name>
+          <capacity>230</capacity>
+          <speed>1400</speed>
+          <tonnage>1600</tonnage>
+          <distance>3400</distance>
+          <freightType>products</freightType>
+      </freight>   
+</planes>

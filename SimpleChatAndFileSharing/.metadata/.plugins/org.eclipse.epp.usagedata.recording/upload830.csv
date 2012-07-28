@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1267275208311
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1267275209379
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1267275218137
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1267275218551
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267275221335
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267275527642
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1267275560558
+error,log,,,"File not found: '/ChatAndFileSharing/src/__2F_ChatAndFileSharing_2F_WebContent_2F_Chat_2E_jsp.java'",1267275560849
+error,log,,,"File not found: '/ChatAndFileSharing/src/__2F_ChatAndFileSharing_2F_WebContent_2F_Chat_2E_jsp.java'",1267275566161
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1267275567198
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1267275571254
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267275579244
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267275585928
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1267275588779
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1267275592535
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1267275596303
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1267275610539
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1267275613143
+started,bundle,org.eclipse.jst.jee.ui,1.0.200.v200905242144,"org.eclipse.jst.jee.ui",1267275618750
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1267275618824
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1267275618838
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1267275618987
+started,bundle,org.eclipse.jst.server.generic.core,1.0.505.v20090529,"org.eclipse.jst.server.generic.core",1267275619839
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1267275619850
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1267275620073

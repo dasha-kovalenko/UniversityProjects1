@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:ListOfTransports xmlns:tns="http://www.example.org/TrXMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/TrXMLSchema TrXMLSchema.xsd ">
+  <tns:Bus>
+    <tns:number>2</tns:number>
+    <tns:start>05:30:00</tns:start>
+    <tns:finish>00:10:00</tns:finish>
+    <tns:route>A-B</tns:route>
+    <tns:price>100</tns:price>
+    <tns:interval>5</tns:interval>
+    <tns:capacity>66</tns:capacity>
+    <tns:amountOfFuel>150</tns:amountOfFuel>
+  </tns:Bus>
+  <tns:Trolleybus>
+    <tns:number>78</tns:number>
+    <tns:start>06:05:00</tns:start>
+    <tns:finish>01:20:00</tns:finish>
+    <tns:route>A-K-L-B-C-C</tns:route>
+    <tns:price>50</tns:price>
+    <tns:interval>5</tns:interval>
+    <tns:capacity>100</tns:capacity>
+    <tns:energy>1550</tns:energy>
+  </tns:Trolleybus>
+</tns:ListOfTransports>

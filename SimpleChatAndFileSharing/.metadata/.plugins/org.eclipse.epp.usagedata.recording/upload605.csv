@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266931669373
+java.specification.version,sysinfo,,,"1.6",1266931669373
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1266931669373
+java.version,sysinfo,,,"1.6.0_18",1266931669373
+java.vm.info,sysinfo,,,"mixed mode",1266931669373
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1266931669373
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1266931669373
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266931669373
+java.vm.specification.version,sysinfo,,,"1.0",1266931669373
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266931669373
+java.vm.version,sysinfo,,,"16.0-b13",1266931669373
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266931670512
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1266931672321
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1266931678340
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1266931678452
+started,bundle,org.eclipse.jst.jee.ui,1.0.200.v200905242144,"org.eclipse.jst.jee.ui",1266931680449
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.300.v200904230730,"org.eclipse.jst.j2ee.ejb",1266931680473
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.300.v200903120000,"org.eclipse.jst.j2ee.jca",1266931680479
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1266931680486
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1266931680488
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1266931680864
+started,bundle,org.eclipse.jst.server.generic.core,1.0.505.v20090529,"org.eclipse.jst.server.generic.core",1266931681215
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1266931681218
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1266931681324
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.debug",1266931681357

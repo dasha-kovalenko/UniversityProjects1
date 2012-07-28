@@ -1,0 +1,14 @@
+<flowers>
+	<flower>
+		<name>Camomile</name>
+		<origin>Poland</origin> 
+		<temperature>15</temperature>
+		<picture>camomile_1.jpg</picture>
+	</flower>
+	<flower>
+		<name>Tulip</name>
+ 		<origin>Asia</origin>		
+		<temperature>25</temperature>		
+		<picture>tulip_1.jpg</picture>
+	</flower>
+</flowers>

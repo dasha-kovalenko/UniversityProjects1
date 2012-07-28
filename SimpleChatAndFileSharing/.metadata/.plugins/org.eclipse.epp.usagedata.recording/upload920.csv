@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Core exception while retrieving the content description",1271361894821
+error,log,,,"Core exception while retrieving the content description",1271361894824
+error,log,,,"Core exception while retrieving the content description",1271361895743
+error,log,,,"Core exception while retrieving the content description",1271361895745
+error,log,,,"Core exception while retrieving the content description",1271361895748
+error,log,,,"Core exception while retrieving the content description",1271361895750
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.run",1271361896622
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271361896686
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271361896706
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361899575
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361899581
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361899676
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361903097
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361918452
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361926685
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1271361931585
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1271361936704
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1271361936760
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1271361939678
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271361961559
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361968096
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361985713
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1271362002747
+error,log,,,"Core exception while retrieving the content description",1271362002839
+error,log,,,"Core exception while retrieving the content description",1271362002842

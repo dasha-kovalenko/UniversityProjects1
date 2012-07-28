@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+closed,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266926183309
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1266926185983
+started,bundle,org.eclipse.wst.internet.cache,1.0.301.v200805140020,"org.eclipse.wst.internet.cache",1266926196767
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1266926200983
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1266926202806
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1266926204310
+activated,perspective,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.JavaPerspective",1266926206877
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1266926208617
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1266926208618
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266926209450
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1266926209709
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1266926209833
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926213759
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926218114
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1266926218823
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1266926220223
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926231319
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926250727
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266926250769
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1266926250987
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926252673
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926256622
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1266926256637
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266926259429
+error,log,,,"preference option missing: org.eclipse.wst.jsdt.core/semanticValidation (org.eclipse.wst.jsdt.internal.ui.preferences.ProblemSeveritiesConfigurationBlock)",1266926323086

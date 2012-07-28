@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/TrXMLSchema" xmlns:tns="http://www.example.org/TrXMLSchema" elementFormDefault="qualified">
+
+    <element name="ListOfTransports" type="tns:List"></element>
+    
+    <complexType name="List">
+    	<sequence>
+            <element name="Bus" type="tns:BusType" maxOccurs="unbounded" minOccurs="0"></element>
+            <element name="Trolleybus" type="tns:TrolleybusType" maxOccurs="unbounded" minOccurs="0"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="BusType">
+    	<complexContent>
+    		<extension base="tns:TransportType">
+    			<sequence>
+    				<element name="amountOfFuel" type="int"></element>
+    			</sequence>
+    		</extension>
+    	</complexContent>
+    </complexType>
+
+    <complexType name="TrolleybusType">
+    	<complexContent>
+    		<extension base="tns:TransportType">
+    			<sequence>
+    				<element name="energy" type="int"></element>
+    			</sequence>
+    		</extension>
+    	</complexContent>
+    </complexType>
+
+    <complexType name="TransportType">
+    	<sequence>
+    		<element name="number" type="int"></element>
+    		<element name="start" type="time"></element>
+    		<element name="finish" type="time"></element>
+    		<element name="route" type="string"></element>
+    		<element name="price" type="int"></element>
+    		<element name="interval" type="int"></element>
+    		<element name="capacity" type="int"></element>
+    	</sequence>
+    </complexType>
+</schema>

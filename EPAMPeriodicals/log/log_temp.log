@@ -1,0 +1,2 @@
+2012-07-12 09:34:17,031 ERROR http-8080-2 by.kovalenko.periodicals.command.UserLogInCommand - 12:  - Неправильное имя пользователя или пароль!
+2012-07-12 09:34:31,031 ERROR http-8080-2 by.kovalenko.periodicals.command.UserLogInCommand - 12: Dasha - Неправильное имя пользователя или пароль!

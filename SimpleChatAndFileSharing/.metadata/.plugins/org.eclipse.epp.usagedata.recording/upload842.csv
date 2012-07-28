@@ -1,0 +1,27 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unhandled event loop exception during blocked modal context.",1267284208223
+activated,perspective,org.eclipse.debug.ui,,"org.eclipse.debug.ui.DebugPerspective",1267433824628
+started,bundle,org.eclipse.osgi,3.5.0.v20090520,"org.eclipse.osgi",1267433824629
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.100.v20090520-1905,"org.eclipse.equinox.simpleconfigurator",1267433824643
+started,bundle,com.ibm.icu,4.0.1.v20090415,"com.ibm.icu",1267433824652
+started,bundle,org.eclipse.compare.core,3.5.0.I20090430-0408,"org.eclipse.compare.core",1267433824667
+started,bundle,org.eclipse.core.contenttype,3.4.0.v20090429-1800,"org.eclipse.core.contenttype",1267433824672
+started,bundle,org.eclipse.core.databinding.observable,1.2.0.I20090604-2000,"org.eclipse.core.databinding.observable",1267433824684
+started,bundle,org.eclipse.core.expressions,3.4.100.v20090429-1800,"org.eclipse.core.expressions",1267433824695
+started,bundle,org.eclipse.core.filebuffers,3.5.0.v20090526-2000,"org.eclipse.core.filebuffers",1267433824706
+started,bundle,org.eclipse.core.filesystem,1.2.0.v20090507,"org.eclipse.core.filesystem",1267433824713
+started,bundle,org.eclipse.core.jobs,3.4.100.v20090429-1800,"org.eclipse.core.jobs",1267433824719
+started,bundle,org.eclipse.core.net,1.2.0.I20090522-1010,"org.eclipse.core.net",1267433824729
+started,bundle,org.eclipse.core.resources,3.5.0.v20090512,"org.eclipse.core.resources",1267433824736
+started,bundle,org.eclipse.core.runtime,3.5.0.v20090525,"org.eclipse.core.runtime",1267433824744
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.0.v20090413,"org.eclipse.core.runtime.compatibility",1267433824785
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.100.v20090413,"org.eclipse.core.runtime.compatibility.auth",1267433824799
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1267433824809
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1267433824820
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1267433824828
+started,bundle,org.eclipse.ecf,3.0.0.v20090604-1131,"org.eclipse.ecf",1267433824841
+started,bundle,org.eclipse.ecf.filetransfer,3.0.0.v20090604-1131,"org.eclipse.ecf.filetransfer",1267433824842
+started,bundle,org.eclipse.ecf.identity,3.0.0.v20090604-1131,"org.eclipse.ecf.identity",1267433824856
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.0.0.v20090604-1131,"org.eclipse.ecf.provider.filetransfer",1267433824866
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,3.0.0.v20090604-1131,"org.eclipse.ecf.provider.filetransfer.httpclient",1267433824879
+started,bundle,org.eclipse.emf.common,2.5.0.v200906151043,"org.eclipse.emf.common",1267433824879

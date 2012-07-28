@@ -1,0 +1,12 @@
+create database meetingDatabase character set utf8  COLLATE utf8_general_ci;
+
+use meetingDatabase;
+
+
+create table partners (id MEDIUMINT NOT NULL AUTO_INCREMENT,age int, name varchar(255),male boolean, country varchar(255), city varchar(255), phone varchar(255), primary key (id)) character set utf8 collate utf8_general_ci ;
+
+
+http://dev.ezoterik.info/mysql-i-russkaya-kodirovka/
+только в utf8
+
+-encoding UTF-8 -docencoding UTF-8 -charset UTF-8

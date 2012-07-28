@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+ws,sysinfo,,,"win32",1271075279044
+locale,sysinfo,,,"ru_RU",1271075279044
+processors,sysinfo,,,"2",1271075279044
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1271075279044
+java.runtime.version,sysinfo,,,"1.6.0_18-b07",1271075279044
+java.specification.name,sysinfo,,,"Java Platform API Specification",1271075279044
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1271075279044
+java.specification.version,sysinfo,,,"1.6",1271075279044
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1271075279044
+java.version,sysinfo,,,"1.6.0_18",1271075279044
+java.vm.info,sysinfo,,,"mixed mode",1271075279044
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1271075279044
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1271075279044
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1271075279044
+java.vm.specification.version,sysinfo,,,"1.0",1271075279044
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1271075279044
+java.vm.version,sysinfo,,,"16.0-b13",1271075279044
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.tasks.ui",1271075279314
+started,bundle,org.eclipse.mylyn.team.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.team.ui",1271075279319
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1271075279384
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1271075279534
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.monitor.ui",1271075279554
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1271075279639
+started,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1271075280584
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1271075280594

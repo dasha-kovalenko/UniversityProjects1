@@ -1,0 +1,11 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.pde.ui.templates,3.4.100.v20090527,"org.eclipse.pde.ui.templates",1266939521742
+stopped,bundle,org.eclipse.pde.ui,3.5.0.v20090528,"org.eclipse.pde.ui",1266939521742
+stopped,bundle,org.eclipse.ui.cheatsheets,3.3.200.v20090526,"org.eclipse.ui.cheatsheets",1266939521743
+stopped,bundle,org.eclipse.help.ui,3.4.0.v20090528,"org.eclipse.help.ui",1266939521744
+stopped,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1266939521744
+stopped,bundle,org.eclipse.ui.intro.universal,3.2.300.v20090526,"org.eclipse.ui.intro.universal",1266939521745
+stopped,bundle,org.eclipse.wtp.epp.package.jee.intro,1.2.0.20090617-0522,"org.eclipse.wtp.epp.package.jee.intro",1266939521746
+stopped,bundle,org.eclipse.ui.intro,3.3.0.v20090526,"org.eclipse.ui.intro",1266939521747
+stopped,bundle,org.eclipse.help.base,3.4.0.v200906111540,"org.eclipse.help.base",1266939521747
+stopped,bundle,org.eclipse.equinox.http.jetty,2.0.0.v20090520-1800,"org.eclipse.equinox.http.jetty",1266939521886

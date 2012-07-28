@@ -1,0 +1,38 @@
+body{
+	background-image: url("images/background.png");
+}
+
+body, .btn, form label, form input, form select{
+	font-weight: bold;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+#centerPanel {
+	width: 800px;
+	min-height: 400px;
+	margin: 20px auto 20px auto;
+	padding: 20px;
+	border-style: solid;
+	border-width: 6px;
+	border-color: #647E9E;
+	background-image: url("images/backgroundCenterPanel.png");
+}
+
+#formPanel{
+	width: 450px;
+	margin: 0px auto 0px auto;
+}
+
+.footer{
+	margin-left: 100px;
+}
+
+#formFooter{
+	width: 160px;
+	margin-left: auto;
+}
+
+h1{
+	text-align: center;
+}

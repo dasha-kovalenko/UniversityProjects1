@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>CVLab6</display-name>
+  <welcome-file-list>
+    <welcome-file>/jsp/cv-master/step1.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description>Servlet for configuring CV</description>
+    <display-name>CVMasterController</display-name>
+    <servlet-name>CVMasterController</servlet-name>
+    <servlet-class>by.kovalenko.cvmaster.controller.CVMasterController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CVMasterController</servlet-name>
+    <url-pattern>/masterCV</url-pattern>
+  </servlet-mapping>
+  <filter>
+    <display-name>SetCharacterEncodingFilter</display-name>
+    <filter-name>SetCharacterEncodingFilter</filter-name>
+    <filter-class>by.kovalenko.cvmaster.filter.SetCharacterEncodingFilter</filter-class>
+    <init-param>
+      <param-name>encoding</param-name>
+      <param-value>UTF-8</param-value>
+    </init-param>
+  </filter>
+  <filter-mapping>
+    <filter-name>SetCharacterEncodingFilter</filter-name>
+    <servlet-name>CVMasterController</servlet-name>
+  </filter-mapping>
+</web-app>

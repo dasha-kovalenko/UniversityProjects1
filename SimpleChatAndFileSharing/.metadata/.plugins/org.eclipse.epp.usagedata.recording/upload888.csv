@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.datatools.enablement.sybase.ase.ui,1.0.1.v200906020900,"org.eclipse.datatools.enablement.sybase.ase.ui",1267893816252
+started,bundle,org.eclipse.datatools.connectivity.db.generic,1.0.1.v200906020900,"org.eclipse.datatools.connectivity.db.generic",1267893826040
+started,bundle,org.eclipse.datatools.enablement.ibm.db2.iseries,1.0.1.v200906020900,"org.eclipse.datatools.enablement.ibm.db2.iseries",1267893832360
+started,bundle,org.eclipse.datatools.enablement.ibm.db2.luw,1.0.1.v200906020900,"org.eclipse.datatools.enablement.ibm.db2.luw",1267893832360
+started,bundle,org.eclipse.datatools.enablement.ibm.db2.zseries,1.0.1.v200906020900,"org.eclipse.datatools.enablement.ibm.db2.zseries",1267893832360
+started,bundle,org.eclipse.datatools.enablement.ingres,1.0.0.v200906111145,"org.eclipse.datatools.enablement.ingres",1267893832411
+started,bundle,org.eclipse.datatools.enablement.sybase,1.0.1.v200906020900,"org.eclipse.datatools.enablement.sybase",1267893832411
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267893832559
+executed,command,org.eclipse.datatools.connectivity.ui,1.1.4.v200906020553,"org.eclipse.datatools.connectivity.commands.addprofile",1267893832574
+started,bundle,org.eclipse.datatools.connectivity.sqm.server.ui,1.1.100.v200906020553,"org.eclipse.datatools.connectivity.sqm.server.ui",1267893833705
+started,bundle,org.eclipse.datatools.enablement.sybase.ase.models,1.0.1.v200906020900,"org.eclipse.datatools.enablement.sybase.ase.models",1267893833942
+started,bundle,org.eclipse.datatools.sqltools.ddlgen.ui,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.ddlgen.ui",1267893835331
+started,bundle,org.eclipse.datatools.enablement.mysql,1.0.2.v200906020900,"org.eclipse.datatools.enablement.mysql",1267893836117
+started,bundle,org.eclipse.datatools.enablement.sap.maxdb,1.0.0.v200906020900,"org.eclipse.datatools.enablement.sap.maxdb",1267893836123
+started,bundle,org.eclipse.datatools.modelbase.dbdefinition,1.0.1.v200906022249,"org.eclipse.datatools.modelbase.dbdefinition",1267893836155
+started,bundle,org.eclipse.datatools.enablement.sybase.ui,1.0.0.v200906090451,"org.eclipse.datatools.enablement.sybase.ui",1267893836222
+started,bundle,org.eclipse.datatools.sqltools.tabledataeditor,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.tabledataeditor",1267893846242
+started,bundle,org.eclipse.datatools.sqltools.data.ui,1.1.1.v200906022302,"org.eclipse.datatools.sqltools.data.ui",1267893846272
+started,bundle,org.eclipse.datatools.sqltools.data.core,1.1.0.v200906022302,"org.eclipse.datatools.sqltools.data.core",1267893870478
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267893870543
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267893874657
+error,log,,,"Unable to create editor ID org.eclipse.datatools.sqltools.data.internal.ui.editor.tableDataEditor: An unexpected exception was thrown.",1267893874681
+opened,editor,org.eclipse.datatools.sqltools.data.ui,1.1.1.v200906022302,"org.eclipse.datatools.sqltools.data.internal.ui.editor.tableDataEditor",1267893874717
+opened,editor,org.eclipse.datatools.sqltools.data.ui,1.1.1.v200906022302,"org.eclipse.datatools.sqltools.data.internal.ui.editor.tableDataEditor",1267893874721
+activated,editor,org.eclipse.datatools.sqltools.data.ui,1.1.1.v200906022302,"org.eclipse.datatools.sqltools.data.internal.ui.editor.tableDataEditor",1267893874762

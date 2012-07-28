@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Core exception while retrieving the content description",1271362002846
+error,log,,,"Core exception while retrieving the content description",1271362002850
+error,log,,,"Core exception while retrieving the content description",1271362002853
+error,log,,,"Core exception while retrieving the content description",1271362002856
+error,log,,,"Core exception while retrieving the content description",1271362002858
+error,log,,,"Core exception while retrieving the content description",1271362006015
+error,log,,,"Core exception while retrieving the content description",1271362006017
+error,log,,,"Core exception while retrieving the content description",1271362006019
+error,log,,,"Core exception while retrieving the content description",1271362006021
+error,log,,,"Core exception while retrieving the content description",1271362006441
+error,log,,,"Core exception while retrieving the content description",1271362006443
+error,log,,,"Core exception while retrieving the content description",1271362006445
+error,log,,,"Core exception while retrieving the content description",1271362006447
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362007792
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362009968
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.run",1271362009976
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362011486
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362051164
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271362052877
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1271362053960
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362054900
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362054903
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362054996
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362063712
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362065513

@@ -1,0 +1,10 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.datatools.enablement.postgresql.ui,1.0.0.v200906020900,"org.eclipse.datatools.enablement.postgresql.ui",1266235965639
+stopped,bundle,org.eclipse.datatools.enablement.sqlite.ui,1.0.0.v200906020900,"org.eclipse.datatools.enablement.sqlite.ui",1266235965640
+stopped,bundle,org.eclipse.datatools.connectivity.db.generic.ui,1.0.1.v200906020900,"org.eclipse.datatools.connectivity.db.generic.ui",1266235965640
+stopped,bundle,org.eclipse.datatools.connectivity.apache.derby.ui,1.0.1.v200906020900,"org.eclipse.datatools.connectivity.apache.derby.ui",1266235965641
+stopped,bundle,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,2.5.0.200810071,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples",1266235965642
+stopped,bundle,org.eclipse.datatools.enablement.sybase.asa.ui,1.0.1.v200906111145,"org.eclipse.datatools.enablement.sybase.asa.ui",1266235965643
+stopped,bundle,org.eclipse.datatools.enablement.sybase.ase.ui,1.0.1.v200906020900,"org.eclipse.datatools.enablement.sybase.ase.ui",1266235965644
+stopped,bundle,org.eclipse.datatools.enablement.sybase.ui,1.0.0.v200906090451,"org.eclipse.datatools.enablement.sybase.ui",1266235965645
+stopped,bundle,org.eclipse.datatools.sqltools.data.ui,1.1.1.v200906022302,"org.eclipse.datatools.sqltools.data.ui",1266235965646

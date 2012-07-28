@@ -1,0 +1,14 @@
+.table td, .table th{
+	text-align: center;
+}
+
+
+h3{
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#datepicker1{
+	margin-bottom: 5px;
+}

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Core exception while retrieving the content description",1271361742258
+error,log,,,"Core exception while retrieving the content description",1271361742757
+error,log,,,"Core exception while retrieving the content description",1271361742761
+error,log,,,"Core exception while retrieving the content description",1271361742764
+error,log,,,"Core exception while retrieving the content description",1271361742767
+started,bundle,org.eclipse.jst.jee.ui,1.0.200.v200905242144,"org.eclipse.jst.jee.ui",1271361745524
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1271361745546
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1271361745547
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1271361745622
+started,bundle,org.eclipse.jst.server.generic.core,1.0.505.v20090529,"org.eclipse.jst.server.generic.core",1271361745947
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1271361745950
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.run",1271361746439
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1271361746484
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1271361746864
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1271361747566
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1271361749000
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271361749581
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271361749618
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361760817
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361760823
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361760930
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361778475
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361786822
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361786826
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361786926

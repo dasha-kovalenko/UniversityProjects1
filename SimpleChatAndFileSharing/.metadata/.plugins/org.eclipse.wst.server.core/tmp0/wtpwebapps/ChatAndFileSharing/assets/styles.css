@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+textarea
+{
+	text-align: left;
+	background-color: #CCCCCC;
+}
+
+table
+{ 
+	background-color: #CCCCCC;
+} 
+
+td.labels
+{
+	font-family: sans-serif;
+	font-size: 10;
+}
+
+td.userlist
+{
+	font-family: sans-serif;
+	font-size: 10;
+	vertical-align: top;
+}
+
+
+form.errors
+{
+	color: #FF0000;
+}
+
+#chatLog {
+  padding:0;
+  margin:0;
+  }
+#chatLog li {
+  list-style-type:none;
+  }

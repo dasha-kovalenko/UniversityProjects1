@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271407945910
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271407947213
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1271407947858
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.stop",1271407949064
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1271407949752
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1271407951066
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1271407951614
+error,log,,,"Core exception while retrieving the content description",1271407954805
+error,log,,,"Core exception while retrieving the content description",1271407954808
+error,log,,,"Core exception while retrieving the content description",1271407954811
+error,log,,,"Core exception while retrieving the content description",1271407954813
+error,log,,,"Core exception while retrieving the content description",1271407954828
+error,log,,,"Core exception while retrieving the content description",1271407954830
+error,log,,,"Core exception while retrieving the content description",1271407954832
+error,log,,,"Core exception while retrieving the content description",1271407954835
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1271407964902
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.stop",1271407966404
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1271407966914
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1271407968198
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1271407971000
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1271407977235
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1271407977265
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1271407977548
+error,log,,,"Core exception while retrieving the content description",1271407982619
+error,log,,,"Core exception while retrieving the content description",1271407982622

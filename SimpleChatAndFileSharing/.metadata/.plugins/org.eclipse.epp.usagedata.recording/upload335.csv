@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358139556
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358140924
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358147363
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266358149503
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266358149503
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358167982
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358177576
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358183037
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358183847
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358188472
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358201449
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358224142
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358237110
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358241837
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358249937
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266358276781
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266358276781
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358279658
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358295917
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1266358328588
+opened,view,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.VariableView",1266358328853
+activated,perspective,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.DebugPerspective",1266358328946
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1266358330838
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.run",1266358335188
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1266358335320

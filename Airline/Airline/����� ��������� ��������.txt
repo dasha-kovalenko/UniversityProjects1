@@ -1,0 +1,31 @@
+ try {
+            switch (current) {
+                case NAME:
+                    plane.setName(s);
+                    break;
+                case CAPACITY:
+                    plane.setCapacity(Integer.parseInt(s));
+                    break;
+                case SPEED:
+                    plane.setSpeed(Integer.parseInt(s));
+                    break;
+                case TONNAGE:
+                    plane.setTonnage(Integer.parseInt(s));
+                    break;
+                case DISTANCE:
+                    plane.setDistance(Integer.parseInt(s));
+                    break;
+                case CALIBRE_WEIGHT:
+                    ((MilitaryPlane)plane).setCalibreWeight(Integer.parseInt(s));
+                    break;
+                case FREIGHT_TYPE:
+                    ((FreightPlane)plane).setFreightType(s);
+                    break;
+                case PRICE:
+                    ((PassengerPlane)plane).setPrice(Integer.parseInt(s));
+                    break;
+            }
+
+        } catch (Exception e) {
+            System.out.println(e);
+        }

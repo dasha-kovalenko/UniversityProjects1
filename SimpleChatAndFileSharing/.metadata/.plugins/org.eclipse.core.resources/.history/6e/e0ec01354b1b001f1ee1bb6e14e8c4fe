@@ -1,0 +1,26 @@
+import javax.xml.rpc.ServiceException;
+
+import levkat.chatfilews.core.Chat;
+import levkat.chatfilews.core.ChatServiceLocator;
+
+public class Main 
+{
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) 
+	{
+		try 
+		{
+			Chat chat = new ChatServiceLocator().getChat();
+		} 
+		catch (ServiceException e) 
+		{
+			e.printStackTrace();
+		}
+		
+		
+	}
+
+}

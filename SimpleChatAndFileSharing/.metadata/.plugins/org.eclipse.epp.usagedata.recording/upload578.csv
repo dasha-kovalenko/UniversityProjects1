@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266925720450
+java.specification.version,sysinfo,,,"1.6",1266925720450
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1266925720450
+java.version,sysinfo,,,"1.6.0_18",1266925720450
+java.vm.info,sysinfo,,,"mixed mode",1266925720450
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1266925720450
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1266925720450
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266925720450
+java.vm.specification.version,sysinfo,,,"1.0",1266925720450
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266925720450
+java.vm.version,sysinfo,,,"16.0-b13",1266925720450
+started,bundle,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui",1266925726510
+started,bundle,org.eclipse.wst.xml.ui,1.1.0.v200905242047,"org.eclipse.wst.xml.ui",1266925726535
+started,bundle,org.eclipse.wst.html.ui,1.0.400.v200904292008,"org.eclipse.wst.html.ui",1266925726537
+started,bundle,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.ui",1266925726538
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1266925726597
+started,bundle,org.eclipse.wst.html.core,1.1.300.v200903120608,"org.eclipse.wst.html.core",1266925726672
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.301.v200805140415,"org.eclipse.wst.common.uriresolver",1266925726841
+started,bundle,org.eclipse.wst.css.core,1.1.300.v200904131653,"org.eclipse.wst.css.core",1266925726878
+started,bundle,org.eclipse.wst.jsdt.web.support.jsp,1.0.200.v200904140255,"org.eclipse.wst.jsdt.web.support.jsp",1266925727289
+started,bundle,org.eclipse.wst.jsdt.web.ui,1.0.200.v200904230847,"org.eclipse.wst.jsdt.web.ui",1266925727298
+started,bundle,org.eclipse.wst.css.ui,1.0.400.v200904292008,"org.eclipse.wst.css.ui",1266925727461
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1266925727610
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1266925727661
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1266925727662

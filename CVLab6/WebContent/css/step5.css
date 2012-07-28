@@ -1,0 +1,34 @@
+@CHARSET "UTF-8";
+h2{
+	font-family: 'Comic Sans MS',sans-serif;
+	color: blue;
+	text-align: center;
+}
+#body{
+	margin: 20px auto 20px auto;
+	width: 400px;
+}
+p{
+	margin-left: 30px; 
+}
+#formData{
+	margin: 20px auto 20px auto;
+}
+#image{
+	margin: 20px auto 20px auto;
+	height: 300px;
+	width: 350px;
+	display: block;
+}
+#formButtonBack{
+	margin: 5px 10px 10px 30px;
+	float: left;
+	padding-right: 5px;
+	width: 40%;
+ 	height: 50px; 
+ 	color: blue; 
+ 	font-size: 20pt; 
+ 	background-color: #8DB6CD;
+	-webkit-border-radius: 10px; 
+	border: 5px solid #001100;
+}

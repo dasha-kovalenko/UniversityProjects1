@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/</rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation></warLocation>
+    <extraInfo></extraInfo>
+    <webPath>/4_templateBd</webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/4_templateBd/WEB-INF/classes</webClassPathEntry>
+        <webClassPathEntry>/4_templateBd/work</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/annotations-api.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/catalina-ant.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/catalina-ha.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/catalina-tribes.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/catalina.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/ecj-3.7.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/el-api.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/jasper-el.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/jasper.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/jsp-api.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/servlet-api.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/tomcat-coyote.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/tomcat-dbcp.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/tomcat-i18n-es.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/tomcat-i18n-fr.jar</webClassPathEntry>
+        <webClassPathEntry>/Library/Tomcat/apache-tomcat-6.0.35/lib/tomcat-i18n-ja.jar</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>

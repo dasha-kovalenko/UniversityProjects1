@@ -1,0 +1,9 @@
+by.kovalenko.periodicals.command
+by.kovalenko.periodicals.connectionpool
+by.kovalenko.periodicals.controller
+by.kovalenko.periodicals.dao
+by.kovalenko.periodicals.entities
+by.kovalenko.periodicals.exceptions
+by.kovalenko.periodicals.filter
+by.kovalenko.periodicals.managers
+by.kovalenko.periodicals.security

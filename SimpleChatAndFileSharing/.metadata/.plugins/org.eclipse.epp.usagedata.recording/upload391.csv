@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1266407904579
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1266407904579
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266407904579
+java.vm.specification.version,sysinfo,,,"1.0",1266407904579
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266407904579
+java.vm.version,sysinfo,,,"16.0-b13",1266407904579
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266407904753
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1266407909271
+started,bundle,org.eclipse.jst.jee.ui,1.0.200.v200905242144,"org.eclipse.jst.jee.ui",1266407920312
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1266407920386
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1266407920400
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1266407920546
+started,bundle,org.eclipse.jst.server.generic.core,1.0.505.v20090529,"org.eclipse.jst.server.generic.core",1266407921123
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1266407921135
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1266407921807
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.run",1266407921871
+started,bundle,org.eclipse.ui.navigator,3.4.0.I20090525-2000,"org.eclipse.ui.navigator",1266407921901
+started,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1266407921982
+opened,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1266407922055
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1266407922477
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1266407924609
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266407925175
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266407925236
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266407952967
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266407974500

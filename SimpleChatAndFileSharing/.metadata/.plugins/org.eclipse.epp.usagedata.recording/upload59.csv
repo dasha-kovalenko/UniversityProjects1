@@ -1,0 +1,13 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.datatools.sqltools.ddlgen.ui,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.ddlgen.ui",1266235505649
+stopped,bundle,org.eclipse.datatools.sqltools.db.derby.ui,1.0.0.v200906020900,"org.eclipse.datatools.sqltools.db.derby.ui",1266235505650
+stopped,bundle,org.eclipse.datatools.sqltools.db.generic.ui,1.0.0.v200906020900,"org.eclipse.datatools.sqltools.db.generic.ui",1266235505651
+stopped,bundle,org.eclipse.datatools.sqltools.debugger.core.ui,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.debugger.core.ui",1266235505652
+stopped,bundle,org.eclipse.datatools.sqltools.routineeditor.ui,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.routineeditor.ui",1266235505652
+stopped,bundle,org.eclipse.datatools.sqltools.sqlbuilder,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.sqlbuilder",1266235505653
+stopped,bundle,org.eclipse.datatools.sqltools.debugger.core,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.debugger.core",1266235505654
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages,1.1.0.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages",1266235505655
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui,1.1.0.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui",1266235505656
+stopped,bundle,org.eclipse.datatools.sqltools.sqlscrapbook,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.sqlscrapbook",1266235505657
+stopped,bundle,org.eclipse.datatools.sqltools.sqleditor,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.sqleditor",1266235505657
+stopped,bundle,org.eclipse.datatools.sqltools.editor.core.ui,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.editor.core.ui",1266235505659

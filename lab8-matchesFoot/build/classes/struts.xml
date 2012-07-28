@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+ "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+ "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+<!-- I18n  --> 
+	<constant name="struts.custom.i18n.resources" value="global" />
+    <package name="default" extends="struts-default">
+        <action name="saveMatch" method="save" class="by.kovalenko.football.controller.MatchController">
+            <result name="success" type="redirect">
+                listMatch
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+			<result name="input">
+                /jsp/match/create.jsp
+            </result>
+        </action>
+		<action name="createMatch" method="create" class="by.kovalenko.football.controller.MatchController">
+            <result name="success">
+                /jsp/match/create.jsp
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+        </action>
+		<action name="updateMatch" method="update" class="by.kovalenko.football.controller.MatchController">
+            <result name="success" type="redirect">
+                listMatch
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+			<result name="input">
+                /jsp/match/edit.jsp
+            </result>
+        </action>
+        <action name="listMatch" method="list" class="by.kovalenko.football.controller.MatchController">
+            <result name="success">
+                /jsp/match/list.jsp
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+			<result name="input">
+                /jsp/match/list.jsp
+            </result>
+        </action>
+        <action name="editMatch" method="edit" class="by.kovalenko.football.controller.MatchController">
+            <result name="success">
+                /jsp/match/edit.jsp
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+        </action>
+        <action name="deleteMatch" method="delete" class="by.kovalenko.football.controller.MatchController">
+            <result name="success" type="redirect">
+                listMatch
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+        </action>
+		<action name="login" method="login" class="by.kovalenko.football.controller.UserController">
+            <result name="success" type="redirect">
+               listMatch
+            </result>
+			<result name="error" type="redirect">
+               loginPage
+            </result>
+			<result name="input">
+               /jsp/authentication/login.jsp
+            </result>
+        </action>
+		<action name="logoff" method="logoff" class="by.kovalenko.football.controller.UserController">
+            <result name="success" type="redirect">
+               loginPage
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+        </action>
+		<action name="loginPage" method="loginPage" class="by.kovalenko.football.controller.UserController">
+            <result name="success">
+               /jsp/authentication/login.jsp
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+			<result name="listMatch" type="redirect">
+               listMatch
+            </result>
+        </action>
+		<action name="saveUser" method="save" class="by.kovalenko.football.controller.UserController">
+            <result name="success" type="redirect">
+                loginPage
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+			<result name="input">
+                /jsp/user/create.jsp
+            </result>
+        </action>
+		<action name="createUser" method="create" class="by.kovalenko.football.controller.UserController">
+            <result name="success">
+                /jsp/user/create.jsp
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+        </action>
+		<action name="updateUser" method="update" class="by.kovalenko.football.controller.UserController">
+            <result name="success" type="redirect">
+                listUser
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+			<result name="input">
+                /jsp/user/edit.jsp
+            </result>
+        </action>
+        <action name="listUser" method="list" class="by.kovalenko.football.controller.UserController">
+            <result name="success">
+                /jsp/user/list.jsp
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+			<result name="input">
+                /jsp/user/list.jsp
+            </result>
+        </action>
+        <action name="editUser" method="edit" class="by.kovalenko.football.controller.UserController">
+            <result name="success">
+                /jsp/user/edit.jsp
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+        </action>
+        <action name="deleteUser" method="delete" class="by.kovalenko.football.controller.UserController">
+            <result name="success" type="redirect">
+                listUser
+            </result>
+			<result name="error">
+               /jsp/error/error.jsp
+            </result>
+        </action>
+		<action name="locale" class="by.kovalenko.football.controller.LocaleAction">
+			<result name="success">
+				/jsp/authentication/login.jsp
+			</result>
+	   </action>
+    </package>
+</struts>

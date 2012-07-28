@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.name,sysinfo,,,"Java Platform API Specification",1266787988434
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266787988434
+java.specification.version,sysinfo,,,"1.6",1266787988434
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1266787988434
+java.version,sysinfo,,,"1.6.0_18",1266787988434
+java.vm.info,sysinfo,,,"mixed mode",1266787988434
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1266787988434
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1266787988434
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266787988434
+java.vm.specification.version,sysinfo,,,"1.0",1266787988434
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266787988434
+java.vm.version,sysinfo,,,"16.0-b13",1266787988434
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1266787989828
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266787990762
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266788232322
+started,bundle,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui",1266788237042
+started,bundle,org.eclipse.wst.xml.ui,1.1.0.v200905242047,"org.eclipse.wst.xml.ui",1266788237060
+started,bundle,org.eclipse.wst.html.ui,1.0.400.v200904292008,"org.eclipse.wst.html.ui",1266788237069
+started,bundle,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.ui",1266788237362
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1266788237442
+started,bundle,org.eclipse.wst.html.core,1.1.300.v200903120608,"org.eclipse.wst.html.core",1266788237540
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1266788237835
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.301.v200805140415,"org.eclipse.wst.common.uriresolver",1266788237853
+started,bundle,org.eclipse.wst.css.core,1.1.300.v200904131653,"org.eclipse.wst.css.core",1266788237868
+started,bundle,org.eclipse.wst.jsdt.web.support.jsp,1.0.200.v200904140255,"org.eclipse.wst.jsdt.web.support.jsp",1266788238040

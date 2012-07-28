@@ -1,0 +1,40 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1271361650248
+java.specification.version,sysinfo,,,"1.6",1271361650248
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1271361650248
+java.version,sysinfo,,,"1.6.0_18",1271361650248
+java.vm.info,sysinfo,,,"mixed mode",1271361650248
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1271361650248
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1271361650248
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1271361650248
+java.vm.specification.version,sysinfo,,,"1.0",1271361650248
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1271361650248
+java.vm.version,sysinfo,,,"16.0-b13",1271361650248
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361668936
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361672218
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271361672353
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1271361683349
+started,bundle,org.eclipse.osgi,3.5.0.v20090520,"org.eclipse.osgi",1271361683350
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.100.v20090520-1905,"org.eclipse.equinox.simpleconfigurator",1271361683351
+started,bundle,com.ibm.icu,4.0.1.v20090415,"com.ibm.icu",1271361683352
+started,bundle,org.eclipse.compare.core,3.5.0.I20090430-0408,"org.eclipse.compare.core",1271361683353
+started,bundle,org.eclipse.core.contenttype,3.4.0.v20090429-1800,"org.eclipse.core.contenttype",1271361683353
+started,bundle,org.eclipse.core.databinding.observable,1.2.0.I20090604-2000,"org.eclipse.core.databinding.observable",1271361683354
+started,bundle,org.eclipse.core.expressions,3.4.100.v20090429-1800,"org.eclipse.core.expressions",1271361683355
+started,bundle,org.eclipse.core.filebuffers,3.5.0.v20090526-2000,"org.eclipse.core.filebuffers",1271361683355
+started,bundle,org.eclipse.core.filesystem,1.2.0.v20090507,"org.eclipse.core.filesystem",1271361683356
+started,bundle,org.eclipse.core.jobs,3.4.100.v20090429-1800,"org.eclipse.core.jobs",1271361683356
+started,bundle,org.eclipse.core.net,1.2.0.I20090522-1010,"org.eclipse.core.net",1271361683357
+started,bundle,org.eclipse.core.resources,3.5.0.v20090512,"org.eclipse.core.resources",1271361683358
+started,bundle,org.eclipse.core.runtime,3.5.0.v20090525,"org.eclipse.core.runtime",1271361683358
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.0.v20090413,"org.eclipse.core.runtime.compatibility",1271361683359
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.100.v20090413,"org.eclipse.core.runtime.compatibility.auth",1271361683359
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1271361683360
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1271361683360
+started,bundle,org.eclipse.ecf,3.0.0.v20090604-1131,"org.eclipse.ecf",1271361683361
+started,bundle,org.eclipse.ecf.filetransfer,3.0.0.v20090604-1131,"org.eclipse.ecf.filetransfer",1271361683361
+started,bundle,org.eclipse.ecf.identity,3.0.0.v20090604-1131,"org.eclipse.ecf.identity",1271361683362
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.0.0.v20090604-1131,"org.eclipse.ecf.provider.filetransfer",1271361683363
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,3.0.0.v20090604-1131,"org.eclipse.ecf.provider.filetransfer.httpclient",1271361683363
+started,bundle,org.eclipse.emf.common,2.5.0.v200906151043,"org.eclipse.emf.common",1271361683363
+started,bundle,org.eclipse.emf.ecore,2.5.0.v200906151043,"org.eclipse.emf.ecore",1271361683363

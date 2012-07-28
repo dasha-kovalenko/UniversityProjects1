@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tns: MatchList ="http://www.clientmatch/Match" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.clientmatch/Match Match.xsd ">
+	<tns:temp>temp</tns:temp>
+	<tns:match>
+		<tns:id>0</tns:id>
+		<tns:team1>manchester-united</tns:team1>
+		<tns:team2>arsenal</tns:team2>
+		<tns:count>2:1</tns:count>
+		<tns:matchdate>2012-01-22</tns:matchdate>
+		</tns:match>
+	<tns:match>
+		<tns:id>1</tns:id>
+		<tns:team1>oldham athletic</tns:team1>
+		<tns:team2>liverpool</tns:team2>
+		<tns:count>1:5</tns:count>
+		<tns:matchdate>2012-01-06</tns:matchdate>
+		</tns:match>
+	<tns:match>
+		<tns:id>2</tns:id>
+		<tns:team1>sunderland</tns:team1>
+		<tns:team2>arsenal</tns:team2>
+		<tns:count>1:2</tns:count>
+		<tns:matchdate>2012-02-11</tns:matchdate>
+		</tns:match>
+	<tns:match>
+		<tns:id>3</tns:id>
+		<tns:team1>barselona</tns:team1>
+		<tns:team2>liverpool</tns:team2>
+		<tns:count>3:1</tns:count>
+		<tns:matchdate>2012-03-02</tns:matchdate>
+		</tns:match>
+	<tns:match>
+		<tns:id>4</tns:id>
+		<tns:team1>barselona</tns:team1>
+		<tns:team2>arsenal</tns:team2>
+		<tns:count>1:1</tns:count>
+		<tns:matchdate>2012-01-01</tns:matchdate>
+		</tns:match>
+	<tns:match>
+		<tns:id>5</tns:id>
+		<tns:team1>tottenham</tns:team1>
+		<tns:team2>manchester-united</tns:team2>
+		<tns:count>1:3</tns:count>
+		<tns:matchdate>2012-03-04</tns:matchdate>
+		</tns:match>
+	<tns:match>
+		<tns:id>6</tns:id>
+		<tns:team1>chelsea</tns:team1>
+		<tns:team2>burmingham</tns:team2>
+		<tns:count>2:0</tns:count>
+		<tns:matchdate>2012-03-06</tns:matchdate>
+		</tns:match>
+	<tns:match>
+		<tns:id>7</tns:id>
+		<tns:team1>tottenham</tns:team1>
+		<tns:team2>liverpool</tns:team2>
+		<tns:count>0:0</tns:count>
+		<tns:matchdate>2012-02-06</tns:matchdate>
+		</tns:match>
+
+</tns:MatchList>

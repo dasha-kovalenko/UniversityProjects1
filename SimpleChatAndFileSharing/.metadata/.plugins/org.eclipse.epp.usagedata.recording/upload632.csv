@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.info,sysinfo,,,"mixed mode",1266934687696
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1266934687696
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1266934687696
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266934687696
+java.vm.specification.version,sysinfo,,,"1.0",1266934687696
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266934687696
+java.vm.version,sysinfo,,,"16.0-b13",1266934687696
+started,bundle,org.eclipse.jdt.apt.core,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.core",1266934688360
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.200.v20090526-2130,"org.eclipse.jdt.apt.pluggable.core",1266934688365
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1266934688419
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266934689767
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266934692281
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266934710277
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.103.v200905151848,"org.eclipse.wst.ws.service.policy",1266934712572
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1266934712617
+started,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1266934712618
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1266934712681
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1266934712687
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1266934712770
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1266934714091
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1266934722178
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1266934727192
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1266934738212
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266934757653
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266934757893

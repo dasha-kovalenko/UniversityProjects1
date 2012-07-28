@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:ListOfBoots xmlns:tns="http://www.example.org/Boot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Boot Boot.xsd ">
+  <tns:Shoes>
+    <tns:id>0</tns:id>
+    <tns:color>tns:color</tns:color>
+    <tns:price>0.0</tns:price>
+    <tns:men>tns:men</tns:men>
+    <tns:women>tns:women</tns:women>
+    <tns:skinType>tns:skinType</tns:skinType>
+  </tns:Shoes>
+  <tns:Sneakers>
+    <tns:id>0</tns:id>
+    <tns:color>tns:color</tns:color>
+    <tns:price>0.0</tns:price>
+    <tns:sockType>tns:sockType</tns:sockType>
+    <tns:material>tns:material</tns:material>
+  </tns:Sneakers>
+</tns:ListOfBoots>

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271411289331
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271411289463
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1271411291548
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1271411340964
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1271411341873
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271411346576
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412035136
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1271412036783
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1271412039918
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412049632
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412079165
+failed,command,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui.format.document",1271412082057
+error,log,,,"""Format"" did not complete normally.  Please see the log for more information.",1271412082064
+error,log,,,"offset or length outside of string. offset: 4207, length: 15, string size: 4050",1271412082067
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412082081
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412084326
+started,bundle,org.eclipse.rse.services,3.1.0.v200906102345,"org.eclipse.rse.services",1271412085788
+started,bundle,org.eclipse.rse.core,3.1.0.v200905272300,"org.eclipse.rse.core",1271412085822
+started,bundle,org.eclipse.rse.ui,3.1.0.v200905272300,"org.eclipse.rse.ui",1271412090973
+started,bundle,org.eclipse.rse.subsystems.files.core,3.1.0.v200906102345,"org.eclipse.rse.subsystems.files.core",1271412090973
+started,bundle,org.eclipse.rse.subsystems.files.local,2.1.100.v200905272300,"org.eclipse.rse.subsystems.files.local",1271412090974
+started,bundle,org.eclipse.rse.files.ui,3.1.0.v200906102345,"org.eclipse.rse.files.ui",1271412090997
+started,bundle,org.eclipse.rse.subsystems.shells.core,3.1.0.v200905272300,"org.eclipse.rse.subsystems.shells.core",1271412091065
+started,bundle,org.eclipse.rse.subsystems.shells.local,2.1.100.v200905272300,"org.eclipse.rse.subsystems.shells.local",1271412091065
+started,bundle,org.eclipse.rse.connectorservice.local,2.1.100.v200905272300,"org.eclipse.rse.connectorservice.local",1271412091109

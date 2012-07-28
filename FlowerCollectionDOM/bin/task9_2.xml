@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<?xml-stylesheet type="text/xsl" href="flower_table.xsl"?>
+<greenhouse name="Amelie" location="Montmartre" count="2000"> 
+	<flower name="Camomile" soil="Stony" origin="Poland"> 
+		<color_stalk>green</color_stalk>
+		<color_leaf>green</color_leaf>
+		<average_size>10</average_size>
+		<temperature>15</temperature>
+		<lightning>Yes</lightning>
+		<watering>100</watering>
+		<picture><img src="camomile_1.jpg"></img></picture>
+	</flower>
+	<flower name="Tulip" soil="Clayey" origin="Asia"> 
+		<color_stalk>brown</color_stalk>
+		<color_leaf>green</color_leaf>
+		<average_size>20</average_size>
+		<temperature>25</temperature>
+		<lightning>Yes</lightning>
+		<watering>200</watering>
+		<picture><img src="tulip_1.jpg"></img></picture>
+	</flower>
+	<flower name="Lily" soil="Humic" origin="Europe"> 
+		<color_stalk>green</color_stalk>
+		<color_leaf>green</color_leaf>
+		<average_size>50</average_size>
+		<temperature>18</temperature>
+		<lightning>Yes</lightning>
+		<watering>90</watering>
+		<picture><img src="lily_1.jpg"></img></picture>
+	</flower>
+	<flower name="Orchid" soil="Neutral" origin="Asia"> 
+		<color_stalk>green</color_stalk>
+		<color_leaf>green</color_leaf>
+		<average_size>35</average_size>
+		<temperature>20</temperature>
+		<lightning>Yes</lightning>
+		<watering>120</watering>
+		<picture><img src="orchid_1.jpg"></img></picture>
+	</flower>
+</greenhouse>

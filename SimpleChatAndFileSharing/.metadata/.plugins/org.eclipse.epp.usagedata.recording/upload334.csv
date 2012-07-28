@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.textStart",1266358030034
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358030879
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.findReplace",1266358030898
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358039609
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266358041807
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358044059
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358060771
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358063376
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358069441
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358073842
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358080840
+started,bundle,org.eclipse.wst.ws.explorer,1.0.407.v200903301628,"org.eclipse.wst.ws.explorer",1266358106126
+started,bundle,org.eclipse.wst.internet.monitor.core,1.0.404.v20090609,"org.eclipse.wst.internet.monitor.core",1266358106163
+started,bundle,org.eclipse.wst.internet.monitor.ui,1.0.304.v200805140145,"org.eclipse.wst.internet.monitor.ui",1266358106188
+started,bundle,org.eclipse.equinox.http.jetty,2.0.0.v20090520-1800,"org.eclipse.equinox.http.jetty",1266358106537
+started,bundle,org.eclipse.equinox.http.servlet,1.0.200.v20090520-1800,"org.eclipse.equinox.http.servlet",1266358106711
+started,bundle,org.eclipse.equinox.http.registry,1.0.200.v20090520-1800,"org.eclipse.equinox.http.registry",1266358107004
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1266358107048
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266358107217
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1266358107275
+started,bundle,org.eclipse.equinox.jsp.jasper.registry,1.0.100.v20090520-1800,"org.eclipse.equinox.jsp.jasper.registry",1266358107956
+started,bundle,org.eclipse.equinox.jsp.jasper,1.0.200.v20090520-1800,"org.eclipse.equinox.jsp.jasper",1266358107965
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266358128196
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266358128196
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266358130603

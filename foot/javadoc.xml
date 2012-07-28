@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam=" -encoding UTF-8 -docencoding UTF-8 -charset UTF-8 -linkoffline http://docs.oracle.com/javase/7/docs/api/ http://docs.oracle.com/javase/7/docs/api/" author="true" classpath="bin/MySQL Connector J/mysql-connector-java-5.1.15-bin.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.6" sourcefiles="src/ClientFrame.java,src/FootballServer.java,src/FootballDataBase.java,src/DeleteDialog.java,src/ClientRunner.java,src/Match.java,src/InsertDialog.java,src/PolicyFileLocator.java,src/ServerRunner.java" sourcepath="src" splitindex="true" stylesheetfile="C:\Documents and Settings\Dasha\ProjectsJava\foot\stylesheet.css" use="true" version="true">
+            <link href="file:/C:/Documents%20and%20Settings/Dasha/ProjectsJava/foot/doc/"/>
+        </javadoc>
+    </target>
+</project>

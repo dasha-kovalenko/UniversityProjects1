@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1267049467081
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1267049467284
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1267049487289
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049492499
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049495041
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049502899
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049506101
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049519316
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049533131
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049546588
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049557838
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1267049616667
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1267049617514
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1267049617990
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049625311
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049625426
+activated,view,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.DebugView",1267049626433
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.Terminate",1267049626557
+activated,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1267049626745
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1267049627956
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267049644435
+error,log,,,"Unhandled event loop exception during blocked modal context.",1267049644588
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1267049645511
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1267049645531
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1267049645547

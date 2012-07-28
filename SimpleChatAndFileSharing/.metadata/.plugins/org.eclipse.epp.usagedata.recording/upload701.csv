@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266999004413
+java.specification.version,sysinfo,,,"1.6",1266999004413
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1266999004413
+java.version,sysinfo,,,"1.6.0_18",1266999004413
+java.vm.info,sysinfo,,,"mixed mode",1266999004413
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1266999004413
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1266999004413
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266999004413
+java.vm.specification.version,sysinfo,,,"1.0",1266999004413
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266999004413
+java.vm.version,sysinfo,,,"16.0-b13",1266999004413
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1266999007096
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266999016355
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266999016836
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1266999055688
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266999065457
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266999102325
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266999111189
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267009234482
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1267009240305
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1267009240413
+started,bundle,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui",1267009243954
+started,bundle,org.eclipse.wst.xml.ui,1.1.0.v200905242047,"org.eclipse.wst.xml.ui",1267009244007
+started,bundle,org.eclipse.wst.html.ui,1.0.400.v200904292008,"org.eclipse.wst.html.ui",1267009244050
+started,bundle,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.ui",1267009244052

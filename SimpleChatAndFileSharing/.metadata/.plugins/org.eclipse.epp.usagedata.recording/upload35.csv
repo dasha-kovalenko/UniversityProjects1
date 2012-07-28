@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jst.j2ee.ejb,1.1.300.v200904230730,"org.eclipse.jst.j2ee.ejb",1266231979852
+started,bundle,org.eclipse.jst.j2ee.jca,1.1.300.v200903120000,"org.eclipse.jst.j2ee.jca",1266231979853
+started,bundle,org.eclipse.jst.jee.ejb,1.0.200.v200810230716,"org.eclipse.jst.jee.ejb",1266231979853
+started,bundle,org.eclipse.jst.jee.web,1.0.200.v200904130912,"org.eclipse.jst.jee.web",1266231979854
+started,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1266231979937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266231985252
+started,bundle,org.eclipse.datatools.connectivity,1.1.2.v200906020553,"org.eclipse.datatools.connectivity",1266231988393
+started,bundle,org.eclipse.datatools.connectivity.ui,1.1.4.v200906020553,"org.eclipse.datatools.connectivity.ui",1266231988395
+started,bundle,org.eclipse.datatools.connectivity.apache.derby,1.0.100.v200906020900,"org.eclipse.datatools.connectivity.apache.derby",1266231988493
+started,bundle,org.eclipse.datatools.enablement.msft.sqlserver,1.0.1.v200906020900,"org.eclipse.datatools.enablement.msft.sqlserver",1266231988511
+started,bundle,org.eclipse.datatools.enablement.sqlite,1.0.0.v200906020900,"org.eclipse.datatools.enablement.sqlite",1266231988514
+started,bundle,org.eclipse.datatools.enablement.sybase.asa,1.0.1.v200906020900,"org.eclipse.datatools.enablement.sybase.asa",1266231988516
+started,bundle,org.eclipse.datatools.enablement.sybase.ase,1.0.1.v200906020900,"org.eclipse.datatools.enablement.sybase.ase",1266231988518
+started,bundle,org.eclipse.datatools.connectivity.sqm.core,1.1.0.v200906020553,"org.eclipse.datatools.connectivity.sqm.core",1266231991121
+started,bundle,org.eclipse.datatools.modelbase.sql,1.0.2.v200906022249,"org.eclipse.datatools.modelbase.sql",1266231991128
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266232127462
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266232179695
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266232392634
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1266232480238
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1266232803485
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.103.v200905151848,"org.eclipse.wst.ws.service.policy",1266232805625
+started,bundle,org.eclipse.wst.command.env,1.0.408.v200903110045,"org.eclipse.wst.command.env",1266232805650
+started,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1266232805651
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1266232806159
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1266232807885

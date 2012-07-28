@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/Boot" xmlns:tns="http://www.example.org/Boot" elementFormDefault="qualified">
+	
+	<element name="ListOfBoots" type="tns:List"></element>
+	
+    <complexType name="List">
+    	<sequence>
+    		<element name="Shoes" type="tns:ShoesType" maxOccurs="unbounded" minOccurs="0"></element>
+    		<element name="Sneakers" type="tns:SneakerType" maxOccurs="unbounded" minOccurs="0"></element>
+    	</sequence>
+    </complexType>
+    
+    <complexType name="Boot" abstract="true">
+    	<sequence>
+    		<element name="id" type="long"></element>
+    		<element name="color" type="string"></element>
+    		<element name="price" type="double"></element>
+    	</sequence>
+
+    </complexType>
+
+    <complexType name="SportBoot" abstract="true">
+    	<complexContent>
+    		<extension base="tns:Boot">
+    			<sequence>
+    				<element name="sockType" type="string"></element>
+    			</sequence>
+    		</extension>
+    	</complexContent>
+    </complexType>
+
+    <complexType name="ClassicBoot" abstract="true">
+    	<complexContent>
+    		<extension base="tns:Boot">
+    			<sequence>
+    				<element name="men" type="string"></element>
+    				<element name="women" type="string"></element>
+    			</sequence>
+    		</extension>
+    	</complexContent>
+    </complexType>
+
+    <complexType name="SneakerType">
+    	<complexContent>
+    		<extension base="tns:SportBoot">
+    			<sequence>
+    				<element name="material" type="string"></element>
+    			</sequence>
+    		</extension>
+    	</complexContent>
+    </complexType>
+
+    <complexType name="ShoesType">
+    	<complexContent>
+    		<extension base="tns:ClassicBoot">
+    			<sequence>
+    				<element name="skinType" type="string"></element>
+    			</sequence>
+    		</extension>
+    	</complexContent>
+    </complexType>
+
+</schema>

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1271361683431
+java.specification.version,sysinfo,,,"1.6",1271361683431
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1271361683431
+java.version,sysinfo,,,"1.6.0_18",1271361683431
+java.vm.info,sysinfo,,,"mixed mode",1271361683431
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1271361683431
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1271361683431
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1271361683431
+java.vm.specification.version,sysinfo,,,"1.0",1271361683431
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1271361683431
+java.vm.version,sysinfo,,,"16.0-b13",1271361683431
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1271361684565
+started,bundle,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui",1271361697755
+started,bundle,org.eclipse.wst.xml.ui,1.1.0.v200905242047,"org.eclipse.wst.xml.ui",1271361697775
+started,bundle,org.eclipse.wst.html.ui,1.0.400.v200904292008,"org.eclipse.wst.html.ui",1271361697777
+started,bundle,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.ui",1271361697779
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1271361697841
+started,bundle,org.eclipse.wst.html.core,1.1.300.v200903120608,"org.eclipse.wst.html.core",1271361697919
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1271361697988
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.301.v200805140415,"org.eclipse.wst.common.uriresolver",1271361698032
+started,bundle,org.eclipse.wst.css.core,1.1.300.v200904131653,"org.eclipse.wst.css.core",1271361698067
+started,bundle,org.eclipse.wst.jsdt.web.support.jsp,1.0.200.v200904140255,"org.eclipse.wst.jsdt.web.support.jsp",1271361698086
+started,bundle,org.eclipse.wst.jsdt.web.ui,1.0.200.v200904230847,"org.eclipse.wst.jsdt.web.ui",1271361698122
+started,bundle,org.eclipse.wst.css.ui,1.0.400.v200904292008,"org.eclipse.wst.css.ui",1271361698540
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1271361698699

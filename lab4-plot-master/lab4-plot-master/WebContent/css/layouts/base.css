@@ -1,0 +1,27 @@
+body{
+	background-image: url("images/background.png");
+}
+
+body, .btn, form label, form input, form select{
+	font-weight: bold;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+#centerPanel {
+	padding: 10px;
+	margin-top: 60px;
+	min-height: 450px;
+	border-style: solid;
+	border-width: 6px;
+	border-color: #647E9E;
+	background-image: url("images/backgroundCenterPanel.png");
+}
+
+h1{
+	text-align: center;
+}
+
+#header{
+	text-align: center;
+}

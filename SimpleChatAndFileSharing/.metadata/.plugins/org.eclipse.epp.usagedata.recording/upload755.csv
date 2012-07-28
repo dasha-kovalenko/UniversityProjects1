@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1267020936963
+java.specification.version,sysinfo,,,"1.6",1267020936963
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1267020936963
+java.version,sysinfo,,,"1.6.0_18",1267020936963
+java.vm.info,sysinfo,,,"mixed mode",1267020936963
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1267020936963
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1267020936963
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1267020936963
+java.vm.specification.version,sysinfo,,,"1.0",1267020936963
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1267020936963
+java.vm.version,sysinfo,,,"16.0-b13",1267020936963
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267020956015
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1267020957926
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1267020992666
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1267020992713
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1267020992806
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.debug.CompilationUnitEditor.BreakpointRulerActions/org.eclipse.jdt.debug.ui.actions.ManageBreakpointRulerAction",1267020992962
+executed,command,,,"AUTOGEN:::org.eclipse.jdt.internal.ui.CompilationUnitEditor.ruler.actions/org.eclipse.jdt.internal.ui.javaeditor.JavaSelectRulerAction",1267020994233
+started,bundle,org.eclipse.mylyn.java.tasks,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.tasks",1267021118944
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1267021119036
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1267021128153
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1267021133499
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1267021133675
+started,bundle,org.eclipse.wst.jsdt.web.core,1.0.200.v200905120445,"org.eclipse.wst.jsdt.web.core",1267021134140
+started,bundle,org.eclipse.wst.dtd.core,1.1.300.v200904181727,"org.eclipse.wst.dtd.core",1267021134795

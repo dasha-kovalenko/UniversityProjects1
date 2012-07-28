@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.rse.services.local,2.1.100.v200905272300,"org.eclipse.rse.services.local",1271412091116
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412091173
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412092869
+executed,command,org.eclipse.search,3.5.0.v20090526-2000,"org.eclipse.search.ui.openSearchDialog",1271412092885
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1271412093908
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412098313
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412099294
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1271412099366
+closed,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1271412099367
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1271412100599
+opened,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1271412101666
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1271412101707
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412103406
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1271412109452
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1271412110445
+opened,view,org.eclipse.search,3.5.0.v20090526-2000,"org.eclipse.search.ui.views.SearchView",1271412116024
+activated,view,org.eclipse.search,3.5.0.v20090526-2000,"org.eclipse.search.ui.views.SearchView",1271412116041
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412116215
+executed,command,org.eclipse.search,3.5.0.v20090526-2000,"org.eclipse.search.ui.openSearchDialog",1271412116235
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412116525
+error,log,,,"Problems encountered during text search.",1271412116816
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271412128368
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1271412136837
+activated,view,org.eclipse.search,3.5.0.v20090526-2000,"org.eclipse.search.ui.views.SearchView",1271412141425
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1271412141444

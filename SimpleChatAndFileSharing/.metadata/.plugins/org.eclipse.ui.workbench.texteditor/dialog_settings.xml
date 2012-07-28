@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="1296" key="DIALOG_WIDTH"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+		<item value="786" key="DIALOG_HEIGHT"/>
+		<item value="0" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="wrap"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="MessageLog" key="selection"/>
+		<list key="findhistory">
+			<item value="MessageLog"/>
+			<item value="Message"/>
+			<item value="&lt;essage"/>
+			<item value="logContainer"/>
+			<item value="isAlreadyDownloading"/>
+			<item value="JDBC_URL"/>
+			<item value="Time_"/>
+			<item value="Time"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Time"/>
+			<item value="Time_"/>
+			<item value="&quot;Time_&quot;"/>
+			<item value="Main"/>
+			<item value="(user.state?1:0)"/>
+			<item value="boolean"/>
+			<item value="executeStatement"/>
+			<item value="executeStmt"/>
+		</list>
+	</section>
+</section>

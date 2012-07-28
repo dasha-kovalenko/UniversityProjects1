@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362069863
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1271362072218
+closed,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271362072218
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1271362074934
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1271362074934
+error,log,,,"Core exception while retrieving the content description",1271362075850
+error,log,,,"Core exception while retrieving the content description",1271362075853
+error,log,,,"Core exception while retrieving the content description",1271362075855
+error,log,,,"Core exception while retrieving the content description",1271362075857
+error,log,,,"Core exception while retrieving the content description",1271362075860
+error,log,,,"Core exception while retrieving the content description",1271362075863
+error,log,,,"Core exception while retrieving the content description",1271362075865
+error,log,,,"Core exception while retrieving the content description",1271362079859
+error,log,,,"Core exception while retrieving the content description",1271362079861
+error,log,,,"Core exception while retrieving the content description",1271362079864
+error,log,,,"Core exception while retrieving the content description",1271362079866
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362080867
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362082880
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.run",1271362082889
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362084267
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271362085111
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362085120
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1271362085134
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1271362105947
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1271362106719

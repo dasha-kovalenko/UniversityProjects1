@@ -1,0 +1,64 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from ChatService WSDL service -->
+
+  <service name="Chat" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://core.chatfilews.levkat"/>
+      <parameter name="wsdlServiceElement" value="ChatService"/>
+      <parameter name="schemaQualified" value="http://core.chatfilews.levkat"/>
+      <parameter name="wsdlServicePort" value="Chat"/>
+      <parameter name="className" value="levkat.chatfilews.core.ChatSoapBindingImpl"/>
+      <parameter name="wsdlPortType" value="Chat"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation name="getAllMessages" qname="operNS:getAllMessages" xmlns:operNS="http://core.chatfilews.levkat" returnQName="retNS:getAllMessagesReturn" xmlns:retNS="http://core.chatfilews.levkat" returnType="rtns:ChatMessage" xmlns:rtns="http://core.chatfilews.levkat" soapAction="" >
+      </operation>
+      <operation name="logout" qname="operNS:logout" xmlns:operNS="http://core.chatfilews.levkat" returnQName="retNS:logoutReturn" xmlns:retNS="http://core.chatfilews.levkat" returnType="rtns:int" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:nickname" xmlns:pns="http://core.chatfilews.levkat" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+        <parameter qname="pns:password" xmlns:pns="http://core.chatfilews.levkat" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="login" qname="operNS:login" xmlns:operNS="http://core.chatfilews.levkat" returnQName="retNS:loginReturn" xmlns:retNS="http://core.chatfilews.levkat" returnType="rtns:int" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:nickname" xmlns:pns="http://core.chatfilews.levkat" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+        <parameter qname="pns:password" xmlns:pns="http://core.chatfilews.levkat" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="getAllUsers" qname="operNS:getAllUsers" xmlns:operNS="http://core.chatfilews.levkat" returnQName="retNS:getAllUsersReturn" xmlns:retNS="http://core.chatfilews.levkat" returnType="rtns:ChatPerson" xmlns:rtns="http://core.chatfilews.levkat" soapAction="" >
+      </operation>
+      <operation name="postMessage" qname="operNS:postMessage" xmlns:operNS="http://core.chatfilews.levkat" soapAction="" >
+        <parameter qname="pns:message" xmlns:pns="http://core.chatfilews.levkat" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+        <parameter qname="pns:nickname" xmlns:pns="http://core.chatfilews.levkat" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="getOnlineUsers" qname="operNS:getOnlineUsers" xmlns:operNS="http://core.chatfilews.levkat" returnQName="retNS:getOnlineUsersReturn" xmlns:retNS="http://core.chatfilews.levkat" returnType="rtns:ChatPerson" xmlns:rtns="http://core.chatfilews.levkat" soapAction="" >
+      </operation>
+      <operation name="registerNewUser" qname="operNS:registerNewUser" xmlns:operNS="http://core.chatfilews.levkat" returnQName="retNS:registerNewUserReturn" xmlns:retNS="http://core.chatfilews.levkat" returnType="rtns:int" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:nickname" xmlns:pns="http://core.chatfilews.levkat" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+        <parameter qname="pns:password" xmlns:pns="http://core.chatfilews.levkat" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <parameter name="allowedMethods" value="postMessage getOnlineUsers logout getAllMessages getAllUsers login registerNewUser"/>
+
+      <typeMapping
+        xmlns:ns="http://core.chatfilews.levkat"
+        qname="ns:ChatPerson"
+        type="java:levkat.chatfilews.core.ChatPerson"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+      <typeMapping
+        xmlns:ns="http://core.chatfilews.levkat"
+        qname="ns:ChatMessage"
+        type="java:levkat.chatfilews.core.ChatMessage"
+        serializer="org.apache.axis.encoding.ser.BeanSerializerFactory"
+        deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory"
+        encodingStyle=""
+      />
+  </service>
+</deployment>

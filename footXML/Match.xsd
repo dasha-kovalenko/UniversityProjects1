@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.clientmatch.by.kdv/Match" xmlns:tns="http://www.clientmatch.by.kdv/Match" elementFormDefault="qualified">
+
+    <complexType name="Match">
+    	<sequence>
+    		<element name="id" type="int"></element>
+    		<element name="team1" type="string"></element>
+    		<element name="team2" type="string"></element>
+    		<element name="count" type="string"></element>
+    		<element name="matchdate" type="date"></element>
+
+    	</sequence>
+    </complexType>
+
+    <complexType name="MatchList">
+    	<sequence>
+            <element name="temp" type="string"></element>
+            <element name="match" type="tns:Match"
+    			maxOccurs="unbounded" minOccurs="0">
+    		</element>
+    	</sequence>
+    </complexType>
+    
+    <element name="MatchList" type="tns:MatchList"></element>
+</schema>

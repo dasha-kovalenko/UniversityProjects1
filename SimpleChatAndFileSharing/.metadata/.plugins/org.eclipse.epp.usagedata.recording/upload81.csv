@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+os,sysinfo,,,"win32",1266235995067
+arch,sysinfo,,,"x86",1266235995067
+ws,sysinfo,,,"win32",1266235995067
+locale,sysinfo,,,"ru_RU",1266235995067
+processors,sysinfo,,,"2",1266235995067
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1266235995067
+java.runtime.version,sysinfo,,,"1.6.0_18-b07",1266235995067
+java.specification.name,sysinfo,,,"Java Platform API Specification",1266235995067
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266235995067
+java.specification.version,sysinfo,,,"1.6",1266235995067
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1266235995067
+java.version,sysinfo,,,"1.6.0_18",1266235995067
+java.vm.info,sysinfo,,,"mixed mode",1266235995067
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1266235995067
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1266235995067
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1266235995067
+java.vm.specification.version,sysinfo,,,"1.0",1266235995067
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1266235995067
+java.vm.version,sysinfo,,,"16.0-b13",1266235995067
+started,bundle,org.eclipse.wst.dtd.core,1.1.300.v200904181727,"org.eclipse.wst.dtd.core",1266235995285
+started,bundle,org.eclipse.wst.sse.ui,1.1.100.v200905141750,"org.eclipse.wst.sse.ui",1266235995290
+started,bundle,org.eclipse.wst.html.ui,1.0.400.v200904292008,"org.eclipse.wst.html.ui",1266235995292
+started,bundle,org.eclipse.jst.jsp.core,1.2.202.v200905081451,"org.eclipse.jst.jsp.core",1266235995328
+started,bundle,org.eclipse.wst.wsdl.validation,1.1.401.v200902271605,"org.eclipse.wst.wsdl.validation",1266235995372
+started,bundle,org.eclipse.wst.xsd.core,1.1.401.v200903020335,"org.eclipse.wst.xsd.core",1266235995376

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">      
+    <xs:complexType name="passenger">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="capacity" type="xs:int"/>
+            <xs:element name="speed" type="xs:int"/>
+            <xs:element name="tonnage" type="xs:int"/>
+            <xs:element name="distance" type="xs:int"/>
+            <xs:element name="price" type="xs:int"/>
+        </xs:sequence>
+    </xs:complexType>  
+    <xs:complexType name="freight">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="capacity" type="xs:int"/>
+            <xs:element name="speed" type="xs:int"/>
+            <xs:element name="tonnage" type="xs:int"/>
+            <xs:element name="distance" type="xs:int"/>
+            <xs:element name="freightType" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>   
+    <xs:complexType name="military">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="capacity" type="xs:int"/>
+            <xs:element name="speed" type="xs:int"/>
+            <xs:element name="tonnage" type="xs:int"/>
+            <xs:element name="distance" type="xs:int"/>
+            <xs:element name="calibreWeight" type="xs:int"/>
+        </xs:sequence>
+    </xs:complexType>    
+    <xs:complexType name="planes">
+        <xs:sequence>
+            <xs:element name="passenger" type="passenger" maxOccurs="10"/>
+            <xs:element name="military" type="military" maxOccurs="10"/>
+            <xs:element name="freight" type="freight" maxOccurs="10"/>
+        </xs:sequence>
+    </xs:complexType>   
+    <xs:element name="planes" type = "planes"/>  
+</xs:schema>
